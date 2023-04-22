@@ -4,7 +4,7 @@ Selamlar, Öncelikle botun boş altyapısı [Beş'e](https://github.com/Bes-js) 
 
 - İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) `(en düşük v16)` indir.
 
-- Daha sonra altyapıyı indirip `./beş_config.js` dosyasını doldur.
+- Daha sonra altyapıyı indirip `./beş_config.json` dosyasını doldur.
 - sonrasında modülleri kurmak için terminale aşşağıdaki kodu yaz.
 
 ```diff
