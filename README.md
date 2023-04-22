@@ -11,3 +11,5 @@ npm install
 - `.setup` komudu ile kurulumu yapmaya başla!
 - Bu kadar bot hazır.
 - `.yardım:` komuduyla tüm komutlara ulaşabilirsin.
+
+- [Discord Sunucumuz](https://discord.gg/luppux)
