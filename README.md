@@ -10,7 +10,6 @@ Selamlar, Öncelikle botun boş altyapısı [Beş'e](https://github.com/Bes-js) 
 ```diff
 npm install
 ```
-- `.setup` komudu ile kurulumu yapmaya başla!
 - Bu kadar bot hazır.
 - `.yardım:` komuduyla tüm komutlara ulaşabilirsin.
 
